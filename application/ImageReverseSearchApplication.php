@@ -21,7 +21,7 @@ require_once(dirname(__FILE__) . '/../vendor/salamon/google/Request.php');
  */
 class ImageReverseSearchApplication extends Application implements Actions
 {
-    const DOWNLOAD_URL = 'https://www.salamon.com';
+    const DOWNLOAD_URL = 'https://www.test.com';
     const SHUTDOWN_FILE = 'SHUTDOWN';
 
     /**
